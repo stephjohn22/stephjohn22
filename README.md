@@ -1,4 +1,4 @@
-### Hi there 👋 I am Stephanie Johnson
+### Hi there, my name is Stephanie Johnson👋
 I am currently completing the CoGrammar Data Science Bootcamp and also in my final year of my BA Finance, accounting and mangement degree.
 
 My linkedin: https://www.linkedin.com/in/stephanie-johnson-0a6965184/
