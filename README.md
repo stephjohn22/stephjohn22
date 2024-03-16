@@ -1,11 +1,13 @@
 ### Hi there 👋 I am Stephanie Johnson
 I am currently completing the CoGrammar Data Science Bootcamp and also in my final year of my BA Finance, accounting and mangement degree.
 
+My linkedin: https://www.linkedin.com/in/stephanie-johnson-0a6965184/
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://images.thesaurus.ie.edu/data-science-and-visualization-for-business-header_1">
  <source media="(prefers-color-scheme: light)" srcset="https://images.thesaurus.ie.edu/data-science-and-visualization-for-business-header_1">
  <img alt="An image" src="https://images.thesaurus.ie.edu/data-science-and-visualization-for-business-header_1">
 </picture>
+
 
 
 <!--
