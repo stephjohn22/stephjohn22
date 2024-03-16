@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Stephanie Johnson
-I am currently working on the CoGrammar Data Science Bootcamp tasks.
+I am currently completing the CoGrammar Data Science Bootcamp and also in my final year of my BA Finance, accounting and mangement degree.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://images.thesaurus.ie.edu/data-science-and-visualization-for-business-header_1">
