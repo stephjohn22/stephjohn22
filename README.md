@@ -1,6 +1,12 @@
 ### Hi there 👋 I am Stephanie Johnson
 I am currently working on the CoGrammar Data Science Bootcamp tasks.
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://images.thesaurus.ie.edu/data-science-and-visualization-for-business-header_1">
+ <source media="(prefers-color-scheme: light)" srcset="https://images.thesaurus.ie.edu/data-science-and-visualization-for-business-header_1">
+ <img alt="An image" src="https://images.thesaurus.ie.edu/data-science-and-visualization-for-business-header_1">
+</picture>
+
 
 <!--
 **stephjohn22/stephjohn22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
