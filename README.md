@@ -1,5 +1,5 @@
 ### Stephanie Johnson👋
-I have completed the CoGrammar Data Science Bootcamp and also have a BSc with honours Finance, Accounting and Management degree.
+I have completed a Data Science Bootcamp and also have a BSc with honours Finance, Accounting and Management degree.
 
 - 🌱 My **Data Science Bootcamp Projects** are in: [Data Science Bootcamp Projects Repo.](https://github.com/stephjohn22/Data-Science-Bootcamp-Projects)
 
